@@ -54,12 +54,10 @@ async function solve(privateKey, contractAddress, contractAbi) {
     const contract = new ethers.Contract(contractAddress, contractAbi, provider);
     const account = new ethers.Wallet(privateKey, provider);
 
-    /*
     if (await isSolved(contract)) {
         console.log('contract already pwned');
         process.exit(0);
     }
-    */
 
     console.log('compiling exploit contract...');
     const compiler = await (new Promise((resolve, reject) => {
