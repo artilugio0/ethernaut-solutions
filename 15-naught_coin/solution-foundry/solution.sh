@@ -22,7 +22,7 @@ EXPLOIT_ADDRESS=$(forge create \
     | grep "Deployed to:" \
     | awk '{print $3}')
 
-if [ $? -ne 0 ] || [ -x "$EXPLOIT_ADDRESS" ]
+if [ $? -ne 0 ] || [ -z "$EXPLOIT_ADDRESS" ]
 then
     echo "[ERROR] Exploit contract deployment failed" >&2
     exit 1
