@@ -1,0 +1,6 @@
+[submodule "15-nought_coin/solution-foundry/lib/forge-std"]
+	path = 15-nought_coin/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "15-naught_coin/solution-foundry/lib/openzeppelin-contracts"]
+	path = 15-naught_coin/solution-foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
