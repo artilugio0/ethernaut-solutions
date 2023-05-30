@@ -7,3 +7,6 @@
 [submodule "16-preservation/solution-foundry/lib/forge-std"]
 	path = 16-preservation/solution-foundry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "20-stop/solution-foundry/lib/forge-std"]
+	path = 20-stop/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
