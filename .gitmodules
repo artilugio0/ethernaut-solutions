@@ -10,3 +10,6 @@
 [submodule "20-stop/solution-foundry/lib/forge-std"]
 	path = 20-stop/solution-foundry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "21-shop/solution-foundry/lib/forge-std"]
+	path = 21-shop/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
