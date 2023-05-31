@@ -13,3 +13,9 @@
 [submodule "21-shop/solution-foundry/lib/forge-std"]
 	path = 21-shop/solution-foundry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "22-dex/solution-foundry/lib/forge-std"]
+	path = 22-dex/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "22-dex/solution-foundry/lib/openzeppelin-contracts"]
+	path = 22-dex/solution-foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
