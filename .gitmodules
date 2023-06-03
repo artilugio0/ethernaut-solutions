@@ -31,3 +31,9 @@
 [submodule "26-double_entry_point/solution-foundry/lib/forge-std"]
 	path = 26-double_entry_point/solution-foundry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "27-good_samaritan/solution-foundry/lib/forge-std"]
+	path = 27-good_samaritan/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "27-good_samaritan/solution-foundry/lib/openzeppelin-contracts"]
+	path = 27-good_samaritan/solution-foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
