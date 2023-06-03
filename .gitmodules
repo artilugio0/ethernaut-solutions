@@ -28,3 +28,6 @@
 [submodule "25-motorbike/solution-foundry/lib/forge-std"]
 	path = 25-motorbike/solution-foundry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "26-double_entry_point/solution-foundry/lib/forge-std"]
+	path = 26-double_entry_point/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
