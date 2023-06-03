@@ -25,3 +25,6 @@
 [submodule "23-dex2/solution-foundry/lib/openzeppelin-contracts"]
 	path = 23-dex2/solution-foundry/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "25-motorbike/solution-foundry/lib/forge-std"]
+	path = 25-motorbike/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
