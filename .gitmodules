@@ -40,3 +40,6 @@
 [submodule "28-gatekeeper_three/solution-foundry/lib/forge-std"]
 	path = 28-gatekeeper_three/solution-foundry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "29-switch/solution-foundry/lib/forge-std"]
+	path = 29-switch/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
