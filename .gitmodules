@@ -37,3 +37,6 @@
 [submodule "27-good_samaritan/solution-foundry/lib/openzeppelin-contracts"]
 	path = 27-good_samaritan/solution-foundry/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "28-gatekeeper_three/solution-foundry/lib/forge-std"]
+	path = 28-gatekeeper_three/solution-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
